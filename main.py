@@ -1,7 +1,7 @@
 from aiogram import Bot, Dispatcher, executor, types
 import python_weather
 
-bot = Bot(token="6251047898:AAEzR4YccxoWZaMYYd-YoxN0gFS8m9sViP8")
+bot = Bot(token="ZZZZZZZZZZ:ZZZZZZZZZZZZZZZZZZ-ZZZZZZZZZZZZZZZZ")
 dp = Dispatcher(bot)
 client = python_weather.Client(unit=python_weather.IMPERIAL, locale=python_weather.Locale.RUSSIAN)
 
